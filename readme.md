@@ -1,6 +1,6 @@
 # pantone2hex
 
-Converts Pantone© color names to hex.
+Converts Pantone color names to hex.
 
 ## Usage
 
