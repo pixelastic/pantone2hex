@@ -5,7 +5,7 @@ Converts Pantone color names to hex.
 ## Usage
 
 ```sh
-$ ./pantone2hex 104-C
+$ ./pantone2hex 104C
 #af9800
 ```
 
