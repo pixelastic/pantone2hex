@@ -12,7 +12,7 @@ $ ./pantone2hex 104C
 ## Credits
 
 Thanks to [Pantone-Sass](https://github.com/damonbauer/Pantone-Sass) for the
-original map, and to [http://rgb.to/]() for the amazing website.
+original map, and to [rgb.to](http://rgb.to/) for the amazing website.
 
 ## Copyright
 
